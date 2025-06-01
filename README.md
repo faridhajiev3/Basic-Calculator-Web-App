@@ -15,3 +15,4 @@ Bu sadə veb kalkulyator HTML, CSS və JavaScript istifadə edilərək hazırlan
 - "←" (Backspace) ilə tək-tək silmə
 - Gecə rejimi (dark mode)
 
+![Image](https://github.com/user-attachments/assets/b1ef24e0-5891-4f01-aa6b-b36acae0f5e2)
