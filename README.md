@@ -5,8 +5,8 @@ Bu sadə veb kalkulyator HTML, CSS və JavaScript istifadə edilərək hazırlan
 🛠 Texnologiyalar
 
 - HTML5
-- CSS3 (Dark mode ilə)
-- JavaScript (klaviatura dəstəyi ilə)
+- CSS3 
+- JavaScript 
 
 💡 Xüsusiyyətlər
 
