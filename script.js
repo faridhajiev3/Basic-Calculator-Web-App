@@ -13,7 +13,7 @@ buttons.forEach(button => {
         if (value === "C") {
             currentInput = "";
         } else if (value === "=") {
-            currentInput = eval(currentInput);
+            currentInput = eval(currentInput).toString();
 
         }
         else if (value === "back") {
